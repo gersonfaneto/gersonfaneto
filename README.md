@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Hi! I'm gersonfaneto 👓 !</h1>
+	<h1>Hi! I'm Gerson 👓 !</h1>
 	<div>Computer Engineering Student & Aspiring Dev.</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
@@ -9,7 +9,7 @@
 </a>
 	<br />
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=gersonfaneto&theme=dark&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=false" />
+	<img src="https://github-readme-stats.vercel.app/api?username=gersonfaneto&theme=dark&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=24&hide_border=false" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonfaneto&theme=dark&hide_title=true&langs_count=8&layout=compact&hide_border=false" />
 </div>
 
