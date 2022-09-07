@@ -2,10 +2,10 @@
 	<h1>Hi! I'm gersonfaneto 👓 !</h1>
 	<div>Computer Engineering Student & Aspiring Dev.</div>
 	<br />
-	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
-	<a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-74c7ec?style=flat&logo=ubuntu" /></a>
-	<a href="https://neovim.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
-	<a href="https://github.com/gersonfaneto" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/gersonfaneto?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
+	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-74c7ec?style=flat&logo=ubuntu" /></a>
+	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
+	<a href="https://github.com/gersonfaneto"><img src="https://img.shields.io/github/stars/gersonfaneto?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 </a>
 	<br />
 	<br />
