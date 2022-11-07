@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Hi! I'm Gerson 👓 !</h1>
-	<div>Computer Engineering Student & Aspiring Dev.</div>
+	<div>Computer Engineering Student && Aspiring Dev.</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-74c7ec?style=flat&logo=ubuntu" /></a>
